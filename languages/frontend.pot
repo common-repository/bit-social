@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"POT-Creation-Date: Mon Oct 28 2024 09:12:59 GMT+0000 (Coordinated Universal "
+"Time)\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: frontend/src/pages/Error404/Error404.tsx:29
+msgid "Redirecting Home in"
+msgstr ""
+
+#: frontend/src/pages/Error404/Error404.tsx:32
+msgid "Go The Home"
+msgstr ""
